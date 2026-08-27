@@ -12,7 +12,7 @@ Monitor the final savings balances across all 41 branches. Enter the branch code
 - Number of new accounts opened.
 - Strength of savings products by branch.
 Dashboard Interaction <a href="https://github.com/rdnmh24-ind/Dashboard-Savings-Balance/blob/main/DASHBOARD%20TABUNGAN.png">View Dashboard</a>
-Dashboard Interaction <a href="https://github.com/rdnmh24-ind/Dashboard-Savings-Balance/blob/main/DASHBOARD%20TABUNGAN%20II.png">View Dashboard</a>
+<a href="https://github.com/rdnmh24-ind/Dashboard-Savings-Balance/blob/main/DASHBOARD%20TABUNGAN%20II.png">View Dashboard</a>
 
 ## Process
 Enter the branch code in the "Insert" field to break down the branch's savings balance.
